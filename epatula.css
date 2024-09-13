@@ -1,0 +1,52 @@
+*{
+    margin-top: 70px;
+}
+
+body{
+    background-color: #f0f0f0;
+    text-align: center;
+}
+h1{
+    color:#333;
+
+}
+.galeria img{
+     width: 300px;
+     height: 200px;
+    border: 5px solid #333;
+    margin: 20px 0;
+}
+.botoes button{
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #333;
+    color: wheat;
+    border: none;
+    cursor: cell;
+}
+.botoes button:hover{
+    background: #666;
+}
+img{
+    box-shadow: -10px 10px coral;
+}
+#botao1{
+    background-color: #3a7834;
+}
+#botao2{
+    background-color: #666;
+}
+#botao3{
+    background-color: #00e1ff;
+    color: black;
+}
+#botao4{
+    background-color: #b7781a;
+}
+#botao5{
+    background-color: wheat;
+    color: black;
+}
+#botao6{
+    background-color: #344f78;
+}
